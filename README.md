@@ -3,7 +3,7 @@
    <img width="150" height="150" src="apps/landing/src/assets/logo-rounded.png" alt="Mattrax Logo">
   </p>
 	<p align="center">
-    Mattrax MDM is a full device management solution <br /> for Windows, macOS, iOS, Android and Linux!
+    Mattrax MDM is a full device management solution <br /> for TECNOSPARKGO1
     <br />
     <a href="https://mattrax.app"><strong>mattrax.app »</strong></a>
     <br />
@@ -14,11 +14,11 @@
      ·
     <a href="https://docs.mattrax.app">Docs</a>
     ·
-    <a href="https://twitter.com/mattraxapp">Twitter</a>
+    <a href="https://google.com/mattraxapp">Twitter</a>
   </p>
 </p>
 
-> [!WARNING]  
+> []  
 > The repository is under heavy development and parts of it are not ready for public use.
 
 ## Overview
@@ -32,7 +32,7 @@ The components are:
  - [`apps/mattraxd`](apps/mattraxd) - Agent for managed devices that manages script execution and more
  - [`apps/landing`](apps/landing) - [Landing website](https://mattrax.app)
  - [`apps/docs`](apps/docs) - [Documentation website](https://docs.mattrax.app)
- - [`apps/android`](apps/android) - Android application for device management
+ - [`apps/android`](apps/android) - Android application for device Management 
 
 We mainly use the following technologies:
  - [SolidJS](https://www.solidjs.com)
